@@ -50,7 +50,7 @@ the following structure, and set `MH_OUTGOING_SMTP` or `-outgoing-smtp`.
 
 Only `name`, `host` and `port` are required.
 
-`mechanism` can be `PLAIN` or `CRAM-MD5`.
+`mechanism` can be `PLAIN` or `CRAMMD5`.
 
 ### Firewalls and proxies
 
